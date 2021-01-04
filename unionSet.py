@@ -7,3 +7,4 @@ s2 = set(V)
 print(s1.difference(s2))
 # print(len(s2.union(s1)))
 print(len(s1.difference(s2)))
+
